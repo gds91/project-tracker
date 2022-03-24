@@ -4,7 +4,7 @@ A project tracker app built with typescript.
 
 This is a project from Maximilian Schwarzmüller's Understanding TypeScript course.
 
-This project allows the user:
+This project allows the user to:
 - Add new projects to the 'active projects' list
 - Drag completed projects from the 'active projects' list to the 'finish projects' list
 
